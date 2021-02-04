@@ -1,10 +1,10 @@
-## Hello World
+## Simple Shapes
 #### by Beidi Han
-February, 1 2021
+February, 4 2021
 
 
 ### Overview
-This is a Hello World Sketch
+This is a Simple Shapes Sketch
 
 
 ### Technical Details
